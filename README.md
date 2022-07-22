@@ -4,9 +4,9 @@
 
 A model and code for csgo character head detection and locking based on yolov5.
 
-#### <font color='red'><u>**This is a practice and replication project for deep learning beginners. The project code can only be used for related knowledge learning and communication, and is not allowed to be used for the actual use of the game or to destroy the game environment.**</u></font>
+### <font color='red'><u>**This is a practice and replication project for deep learning beginners. The project code can only be used for related knowledge learning and communication, and is not allowed to be used for the actual use of the game or to destroy the game environment.**</u></font>
 
-#### <font color='red'><u>**The code tests are all done on csgo's personal server and have not been run in any competitive competitions.**</u></font>
+### <font color='red'><u>**The code tests are all done on csgo's personal server and have not been run in any competitive competitions.**</u></font>
 
 Welcome everyone to communicate and improve this code.
 
