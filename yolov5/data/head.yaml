@@ -1,0 +1,5 @@
+train : ./head_datas/images/train/
+val : ./head_datas/images/val/
+
+nc: 1
+names: ['Head']
