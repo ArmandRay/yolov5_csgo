@@ -2,7 +2,7 @@
 
 ## Describe
 
-A model and code for csgo character head detection and locking based on yolov5. Welcome everyone to communicate and improve this code.
+A model and code for csgo character head detection and locking based on yolov5. The code is very rudimentary, and there are still many imperfections. So welcome everyone to communicate with me and improve this code.
 
 ## Declaration
 
