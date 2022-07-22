@@ -33,13 +33,13 @@ If you need to train your own model or detect, the related method is the same as
 
 ### window
 
-![image-20220722170649387](C:\Users\Armand Ray\AppData\Roaming\Typora\typora-user-images\image-20220722170649387.png)
+![image-20220722180632686](README.assets/image-20220722180632686.png)
 
 Used to determine related windows and subsequent operations.
 
  You need to modify this parameter, or comment the statement and use the `FindWindow()` function below. The 'csgo' parameter in parentheses is the title of the window you want to look for.
 
-![image-20220722171602970](C:\Users\Armand Ray\AppData\Roaming\Typora\typora-user-images\image-20220722171602970.png)
+![image-20220722180559861](README.assets/image-20220722180559861.png)
 
 If your `FindWindow()` function cannot find the relevant window, you can run the commented code at the bottom of the file separately. You can find the window handle you want in the output of the code.
 
@@ -47,7 +47,7 @@ NOTICE: If you use a fixed handle parameter, please do not close your window arb
 
 ### model
 
-![image-20220722171451697](C:\Users\Armand Ray\AppData\Roaming\Typora\typora-user-images\image-20220722171451697.png)
+![image-20220722180617891](README.assets/image-20220722180617891.png)
 
 If you need to use your own model, please modify it here.
 
