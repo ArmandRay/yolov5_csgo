@@ -23,6 +23,8 @@ pip install -r requirements.txt
 
 Run the main.py file in the main directory.
 
+NOTICE: The game needs to run in windowed mode
+
 ### train and detect
 
 If you need to train your own model or detect, the related method is the same as [yolov5](https://github.com/ultralytics/yolov5).
